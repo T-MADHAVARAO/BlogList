@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.profileCont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.profile {
+  width: 100px;
+  margin-bottom: 10px;
+  border-radius: 50px;
+}
+.blogsCont {
+  list-style: none;
+  width: 100%;
+}

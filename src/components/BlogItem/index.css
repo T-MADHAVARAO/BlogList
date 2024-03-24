@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+li {
+  padding: 10px;
+}
+.titleCont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
